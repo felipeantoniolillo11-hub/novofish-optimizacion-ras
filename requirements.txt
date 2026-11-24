@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scipy
+pulp==2.9.0
+plotly
